@@ -27,9 +27,9 @@ Bruteforce attack for Facebook Account
 * Use 2F Authentication.
 * Make location based login(+browser based).
 
-## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
-
+## For More Skill 
+Don't follow me,Keep it up !!
+Go back,I am still watching you !!
 ~~~
 Happy Hacking Day! (Just For Knowledge).
 ~~~
